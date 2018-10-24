@@ -29,3 +29,8 @@ http://www.bootcss.com/p/git-guide/
 #### git cheatsheet
 
 [https://help.github.com/articles/git-cheatsheet/](https://help.github.com/articles/git-cheatsheet/)
+
+#### Flight rules for Git
+
+[https://github.com/k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+
