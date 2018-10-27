@@ -35,5 +35,5 @@ http://www.bootcss.com/p/git-guide/
 [https://github.com/k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
 
 #### Git Tower
-[https://www.git-tower.com/learn/]
-(https://www.git-tower.com/learn/)
+
+[https://www.git-tower.com/learn/](https://www.git-tower.com/learn/)
